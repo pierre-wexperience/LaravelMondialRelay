@@ -1,12 +1,12 @@
-<?php namespace QuentinBontemps\LaravelMondialRelay;
+<?php namespace Wexperience\LaravelMondialRelay;
 
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\ServiceProvider;
-use QuentinBontemps\LaravelMondialRelay\Services\LaravelMondialRelay;
+use Wexperience\LaravelMondialRelay\Services\LaravelMondialRelay;
 
 /**
  * Class LaravelMondialRelayServiceProvider
- * @package QuentinBontemps\LaravelMondialRelay
+ * @package Wexperience\LaravelMondialRelay
  */
 class LaravelMondialRelayServiceProvider extends ServiceProvider
 {
